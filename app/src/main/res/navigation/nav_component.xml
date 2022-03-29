@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_component"
+    app:startDestination="@id/screenSatuFragment">
+    <fragment
+        android:id="@+id/screenSatuFragment"
+        android:name="mumtaz.binar.chapterempat.pertemuansatu.ScreenSatuFragment"
+        android:label="fragment_screen_satu"
+        tools:layout="@layout/fragment_screen_satu" >
+        <action
+            android:id="@+id/action_screenSatuFragment_to_screenDuaFragment"
+            app:destination="@id/screenDuaFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/screenDuaFragment"
+        android:name="mumtaz.binar.chapterempat.pertemuansatu.ScreenDuaFragment"
+        android:label="fragment_screen_dua"
+        tools:layout="@layout/fragment_screen_dua" >
+        <action
+            android:id="@+id/action_screenDuaFragment_to_screenSatuFragment"
+            app:destination="@id/screenSatuFragment" />
+    </fragment>
+</navigation>
