@@ -7,6 +7,7 @@
         <entry key="..\:/appdev/chapterempat/app/src/main/res/layout/activity_first.xml" value="0.184375" />
         <entry key="..\:/appdev/chapterempat/app/src/main/res/layout/activity_latihan.xml" value="0.15" />
         <entry key="..\:/appdev/chapterempat/app/src/main/res/layout/activity_latihan_dua.xml" value="0.20989583333333334" />
+        <entry key="..\:/appdev/chapterempat/app/src/main/res/layout/activity_latihan_empat.xml" value="0.20989583333333334" />
         <entry key="..\:/appdev/chapterempat/app/src/main/res/layout/activity_latihan_tiga.xml" value="0.17314814814814813" />
         <entry key="..\:/appdev/chapterempat/app/src/main/res/layout/activity_main.xml" value="0.184375" />
         <entry key="..\:/appdev/chapterempat/app/src/main/res/layout/activity_nav_component_pertama.xml" value="0.1574074074074074" />
@@ -16,6 +17,7 @@
         <entry key="..\:/appdev/chapterempat/app/src/main/res/layout/fragment_screen_dua.xml" value="0.20989583333333334" />
         <entry key="..\:/appdev/chapterempat/app/src/main/res/layout/fragment_screen_satu.xml" value="0.20989583333333334" />
         <entry key="..\:/appdev/chapterempat/app/src/main/res/layout/fragment_second.xml" value="0.1" />
+        <entry key="..\:/appdev/chapterempat/app/src/main/res/layout/latihan_empat_custom.xml" value="0.20989583333333334" />
       </map>
     </option>
   </component>
