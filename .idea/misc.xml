@@ -4,6 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/appdev/chapterempat/app/src/main/res/layout/activity_alert_dialog.xml" value="0.16203703703703703" />
+        <entry key="..\:/appdev/chapterempat/app/src/main/res/layout/activity_data_aplikasi.xml" value="0.14814814814814814" />
+        <entry key="..\:/appdev/chapterempat/app/src/main/res/layout/activity_data_mahasiswa.xml" value="0.22" />
         <entry key="..\:/appdev/chapterempat/app/src/main/res/layout/activity_first.xml" value="0.184375" />
         <entry key="..\:/appdev/chapterempat/app/src/main/res/layout/activity_latihan.xml" value="0.15" />
         <entry key="..\:/appdev/chapterempat/app/src/main/res/layout/activity_latihan_dua.xml" value="0.20989583333333334" />
@@ -18,6 +20,8 @@
         <entry key="..\:/appdev/chapterempat/app/src/main/res/layout/fragment_screen_dua.xml" value="0.20989583333333334" />
         <entry key="..\:/appdev/chapterempat/app/src/main/res/layout/fragment_screen_satu.xml" value="0.20989583333333334" />
         <entry key="..\:/appdev/chapterempat/app/src/main/res/layout/fragment_second.xml" value="0.1" />
+        <entry key="..\:/appdev/chapterempat/app/src/main/res/layout/item_apk_adapter.xml" value="0.1" />
+        <entry key="..\:/appdev/chapterempat/app/src/main/res/layout/item_mhs_adapter.xml" value="0.184375" />
         <entry key="..\:/appdev/chapterempat/app/src/main/res/layout/latihan_empat_custom.xml" value="0.20989583333333334" />
       </map>
     </option>

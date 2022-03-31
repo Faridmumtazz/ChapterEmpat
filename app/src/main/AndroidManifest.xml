@@ -10,6 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ChapterEmpat">
         <activity
+            android:name=".pertemuantiga.tugassatu.DataAplikasiActivity"
+            android:exported="false" />
+        <activity
+            android:name=".pertemuantiga.DataMahasiswaActivity"
+            android:exported="false" />
+        <activity
             android:name=".pertemuandua.LatihanEmpatActivity"
             android:exported="false" />
         <activity

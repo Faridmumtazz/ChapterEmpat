@@ -8,6 +8,8 @@ import mumtaz.binar.chapterempat.pertemuandua.AlertDialogActivity
 import mumtaz.binar.chapterempat.pertemuandua.LatihanEmpatActivity
 import mumtaz.binar.chapterempat.pertemuandua.LatihanTigaActivity
 import mumtaz.binar.chapterempat.pertemuansatu.*
+import mumtaz.binar.chapterempat.pertemuantiga.DataMahasiswaActivity
+import mumtaz.binar.chapterempat.pertemuantiga.tugassatu.DataAplikasiActivity
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -15,7 +17,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         btn_pertama.setOnClickListener {
-            startActivity(Intent(this, LatihanEmpatActivity::class.java))
+            startActivity(Intent(this, DataAplikasiActivity::class.java))
         }
     }
 }
