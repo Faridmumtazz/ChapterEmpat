@@ -10,8 +10,11 @@
         <entry key="..\:/appdev/chapterempat/app/src/main/res/layout/activity_latihan.xml" value="0.15" />
         <entry key="..\:/appdev/chapterempat/app/src/main/res/layout/activity_latihan_dua.xml" value="0.20989583333333334" />
         <entry key="..\:/appdev/chapterempat/app/src/main/res/layout/activity_latihan_empat.xml" value="0.20989583333333334" />
+        <entry key="..\:/appdev/chapterempat/app/src/main/res/layout/activity_latihan_shared_preference.xml" value="0.184375" />
         <entry key="..\:/appdev/chapterempat/app/src/main/res/layout/activity_latihan_tiga.xml" value="0.17314814814814813" />
         <entry key="..\:/appdev/chapterempat/app/src/main/res/layout/activity_main.xml" value="0.184375" />
+        <entry key="..\:/appdev/chapterempat/app/src/main/res/layout/activity_main_shared_preference.xml" value="0.1" />
+        <entry key="..\:/appdev/chapterempat/app/src/main/res/layout/activity_main_shared_preference_dua.xml" value="0.1703125" />
         <entry key="..\:/appdev/chapterempat/app/src/main/res/layout/activity_nav_component_pertama.xml" value="0.1574074074074074" />
         <entry key="..\:/appdev/chapterempat/app/src/main/res/layout/custom_dialog.xml" value="0.17314814814814813" />
         <entry key="..\:/appdev/chapterempat/app/src/main/res/layout/fragment_alert_dialog.xml" value="0.184375" />
